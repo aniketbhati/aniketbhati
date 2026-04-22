@@ -17,6 +17,7 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ###
 
