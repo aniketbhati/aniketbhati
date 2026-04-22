@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Aniket Bhati and I'm a Data Science Student & Software Developer </h2>
+<h2 align="left">Hello there 👋, I'm Aniket Bhati</h2>
+
+<p align="left">
+A Data Science student passionate about turning data into insights and building practical software solutions.  
+Currently exploring Machine Learning, Big Data, and real-world projects.
+</p>
 
 ###
 
