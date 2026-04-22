@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bhati and I'm a Data Science Student & Software Developer, from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Aniket Bhati and I'm a Data Science Student & Software Developer </h2>
 
 ###
 
@@ -9,10 +9,6 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketbhati&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketbhati&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
 
 ###
 
@@ -22,35 +18,23 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
 
 <h3 align="left">🛠️ Skills & Tools</h3>
 
-<div align="left">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
-  <img width="12" />
-
-  <!-- Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img width="12" />
-
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="30"/>
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="30"/>
-  <img width="12" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="50"/>
+  <img width="20"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50"/>
+</p>
 
 ###
 
@@ -62,7 +46,16 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
   <li>🤖 AI Chatbot (In Progress)</li>
 </ul>
 
+
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketbhati&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketbhati&layout=compact&langs_count=6&theme=dracula" height="150" />
+</div>
+
+###
+
 
 <h3 align="left">🔥 GitHub Activity</h3>
 
