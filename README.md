@@ -54,19 +54,27 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketbhati&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketbhati&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
+
+<h3 align="left">🚀 What I'm Working On</h3>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&lines=Working+on+Capstone+Project:+Merit+Quest;Data+Science+Student;Aspiring+Data+Analyst;Building+Real+World+Projects;Learning+Everyday" />
+</p>
+
 
 ###
 
 
-<h3 align="left">🔥 GitHub Activity</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketbhati&layout=compact&langs_count=8&theme=dracula&card_width=800" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbhati&theme=dracula" />
-</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aniketbhati/aniketbhati/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -75,10 +83,5 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aniketbhati/aniketbhati/output/snake.svg" alt="Snake animation" />
 
 ###
