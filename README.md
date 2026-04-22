@@ -81,6 +81,6 @@ Currently exploring Data Science, Machine Learning, Big Data, and Cyber Security
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aniketbhati/aniketbhati/output/snake.svg" alt="Snake animation" />
 
 ###
