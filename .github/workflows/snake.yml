@@ -5,12 +5,16 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 VERY IMPORTANT (fixes git exit 128)
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -19,9 +23,13 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
